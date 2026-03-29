@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+hw_1/.mpl_cache/
+hw_1/report.aux
+hw_1/report.log
+hw_1/report.out
+hw_1/report.pdf

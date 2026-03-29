@@ -1,0 +1,2 @@
+strategy,entry_run,exit_run,final_value,total_return_pct,annual_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,closed_trades,win_rate_pct,buy_hold_return_pct
+Buy & Hold,,,,68657.96570502703,25.77973390242425,34.75608214323403,0.7417330237678355,63.43314844426233,0,,68657.96570502703

@@ -1,0 +1,3 @@
+strategy,objective_metric,objective_rule,best_entry_run_n,best_exit_run_m,objective_value,total_return_pct,annual_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,closed_trades,win_rate_pct
+Mean Reversion,sharpe_ratio,max,1,10,0.052725099581245646,637.4019369615406,25.07888511031625,33.411546339482065,0.052725099581245646,62.966390489574394,17,94.11764705882352
+Trend Following,sharpe_ratio,max,4,6,0.0555499671543068,605.8001001395165,23.698861576665507,28.849243469740628,0.0555499671543068,68.86182206270377,26,61.53846153846154

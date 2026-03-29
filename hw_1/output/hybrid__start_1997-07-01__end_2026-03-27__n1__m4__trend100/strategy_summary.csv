@@ -1,0 +1,2 @@
+strategy,entry_run,exit_run,final_value,total_return_pct,annual_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,closed_trades,win_rate_pct,buy_hold_return_pct
+Hybrid Trend-Filtered Mean Reversion,1,4,22578632.759695522,541.9589098938768,20.957249809408836,24.443096472685397,0.056732548220010025,42.6729552274065,58,39.6551724137931,68657.96570502703

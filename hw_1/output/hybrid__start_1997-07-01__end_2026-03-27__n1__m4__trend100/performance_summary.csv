@@ -1,0 +1,3 @@
+category,strategy,entry_run,exit_run,total_return_pct,annual_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,closed_trades,win_rate_pct,buy_hold_return_pct
+benchmark,Buy & Hold,,,68657.96570502703,25.77973390242425,34.75608214323403,0.7417330237678355,63.43314844426233,0,,68657.96570502703
+strategy,Hybrid Trend-Filtered Mean Reversion,1,4,541.9589098938768,20.957249809408836,24.443096472685397,0.056732548220010025,42.6729552274065,58,39.6551724137931,68657.96570502703

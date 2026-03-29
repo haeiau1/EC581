@@ -1,0 +1,7 @@
+backtrader
+yfinance
+pandas
+matplotlib
+jupyter
+ipykernel
+

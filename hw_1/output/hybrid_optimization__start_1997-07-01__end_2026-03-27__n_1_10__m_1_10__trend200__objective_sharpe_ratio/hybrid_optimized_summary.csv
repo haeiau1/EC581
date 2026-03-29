@@ -1,0 +1,2 @@
+strategy,objective_metric,objective_rule,trend_period,best_entry_run_n,best_exit_run_m,objective_value,total_return_pct,annual_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,closed_trades,win_rate_pct
+Hybrid Trend-Filtered Mean Reversion,sharpe_ratio,max,200,4,6,0.04560497308833268,377.4942108682121,14.171089247123048,21.49224322783623,0.04560497308833268,49.861445955344095,20,45.0
